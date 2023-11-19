@@ -21,8 +21,10 @@ h2 {
 
 ul {
  border: 3px groove whitesmoke;
+  text-align: justify;
 }
 
 ol {
     border: 3px groove whitesmoke;
+    text-align:justify;
    }
